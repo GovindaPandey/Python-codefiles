@@ -3,7 +3,7 @@
 notThousandth = True
 count = 1
 number = 3
-print "prime number is ",number
+print "prime number is ",2
 while notThousandth:
     isPrime = True
     for j in range(2,number-1) :
@@ -18,4 +18,3 @@ while notThousandth:
         notThousandth = False
         print "Thousnadth Prime number is:",number
     number+=1
-        
