@@ -1,3 +1,5 @@
+#This program finds the thousnadth prime number
+#Date 25/04/2016 08:40 am
 notThousandth = True
 count = 1
 number = 3
